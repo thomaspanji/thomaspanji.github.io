@@ -17,8 +17,8 @@ Here are some project explanations. Please click on the link in the project titl
 
     To run the steps automatically, I used Apache Airflow as a workflow orchestrator which was provided by Google Composer. The workflow can be visualize like the image below.
     
-    <img src=https://github.com/thomaspanji/final-project-digitalskola/blob/main/img/airflow-dag.png alt="workflow" class="inline" />
-    
+    ![airflow-dags](/img/airflow-dag.png)
+
 
 2. [Stream the ISS position data using Apache Kafka](https://github.com/thomaspanji/streaming-iss-kafka)
 
